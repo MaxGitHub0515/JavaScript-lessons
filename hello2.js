@@ -1,4 +1,4 @@
-// 5/27/
+// 5/27
 
 // JavaScript's most important datatype is the object
 // An object is a collection of name/ value pairs, or a string to value map 
